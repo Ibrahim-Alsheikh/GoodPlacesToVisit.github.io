@@ -1,1 +1,1 @@
-# GoodPlacesToVisit.github.io
+# goodplacestovisit.github.io
